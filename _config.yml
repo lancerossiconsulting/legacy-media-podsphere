@@ -1,0 +1,30 @@
+title: "If You Can't Beat 'Em: Legacy Media and the Podsphere"
+description: Examining how the reluctant migration of legacy broadcast figures into podcast and streaming formats signals the structural collapse of traditional media infrastructure.
+author: Lance Rossi
+url: "https://lancerossiconsulting.github.io"
+baseurl: "/legacy-media-podsphere"
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
+  syntax_highlighter: rouge
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - .gitignore
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
