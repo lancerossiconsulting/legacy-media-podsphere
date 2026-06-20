@@ -11,15 +11,13 @@ permalink: /substack/
 
 I watched Brian Williams open his Netflix podcast last week with a joke about every American having their own show by 2030. He said it with the specific kind of sarcasm that told you he meant it — not as satire of podcast culture, but as a genuine expression of bewilderment at the situation he found himself in. Here he was, the former anchor of *NBC Nightly News*, sitting in a format he didn't build, on a platform that started by mailing DVDs, delivering content that his former employer would have dismissed not five years ago.
 
-And I thought: he's right, and he's missing the point.
-
-He's right that the proliferation of audio content is staggering. He's right that the format lacks the gatekeeping mechanisms that broadcast journalism once imposed. He's right, implicitly, that something has been lost. What he's missing — and what most of the coverage of his arrival in the podsphere has also missed — is that he's not the story. The infrastructure collapsing behind him is.
+Williams is the lede here, not the story. He is the most recognizable face on a migration much larger than him, and it is the migration — not the man, and not his bemusement at it — that is worth understanding. The arrival of legacy broadcast figures in the podsphere looks like adaptation. It is closer to divestiture. That distinction is the whole argument, and Williams is just the doorway into it.
 
 **The move you're watching is not what it looks like**
 
-The coverage of Williams's Netflix podcast has mostly taken one of two frames. The first is the adaptation frame: legacy media is learning new formats, experienced journalists are finding new audiences, venerable brands are extending their reach into digital audio. The second is the nostalgia frame: look what has become of the once-mighty anchor, reduced to podcasting on Netflix while the networks he came from still nominally exist.
+The coverage of legacy figures arriving in the podsphere has mostly taken one of two frames. The first is the adaptation frame: legacy media is learning new formats, experienced journalists are finding new audiences, venerable brands are extending their reach into digital audio. The second is the nostalgia frame: look what has become of the once-mighty anchor, reduced to podcasting on Netflix while the networks he came from still nominally exist.
 
-Both frames are wrong, or at least incomplete. They treat Williams's arrival as a choice — his institution's choice, his personal choice — when it is better understood as a consequence. The infrastructure that made broadcast journalism the dominant production mode of American political communication is contracting. Not declining, not pivoting, not evolving — contracting. And Williams, like Chris Wallace before him, and like a dozen others who will follow in the next three years, is not choosing the podsphere so much as following a contracting institution into whatever formats remain viable.
+Both frames are wrong, or at least incomplete. They treat the arrival as a choice — the institution's choice, the individual's choice — when it is better understood as a consequence. The infrastructure that made broadcast journalism the dominant production mode of American political communication is contracting. Not declining, not pivoting, not evolving — contracting. And Williams, like Chris Wallace before him, and like a dozen others who will follow in the next three years, is not choosing the podsphere so much as following a contracting institution into whatever formats remain viable.
 
 That is a very different story. And it matters.
 
@@ -53,13 +51,13 @@ The podsphere is audience-selected in a way that broadcast journalism was not. Y
 
 **The thing to watch**
 
-Williams's joke will get old fast, and the coverage of his podcast will fade into the background noise of media-industry newsletters. The story underneath it won't fade.
+The arrival of any one anchor in the podsphere will get old fast, and the coverage of it will fade into the background noise of media-industry newsletters. The story underneath won't fade.
 
 The broadcast infrastructure is contracting. The figures it shaped are following it into the podsphere. The functions it performed are degrading — some of them into nothing, some of them into new forms that we don't yet have good language to describe. The press pool is opening to people who were not supposed to be there. Netflix is hosting podcasts. The cable news audience is aging out of existence.
 
-In five years, the question won't be whether legacy journalism can adapt to the podsphere. It will be whether anyone — legacy or independent, broadcast or audio, old or new — is performing the democratic functions that journalism's infrastructure once organized. That is a harder question, and a more important one, than what Brian Williams thinks about podcasting.
+In five years, the question won't be whether legacy journalism can adapt to the podsphere. It will be whether anyone — legacy or independent, broadcast or audio, old or new — is performing the democratic functions that journalism's infrastructure once organized. That is the harder question, and the more important one. It was always the story.
 
-He's not wrong to be skeptical. He's just skeptical about the wrong thing.
+Williams just walked us to the door.
 
 ---
 
