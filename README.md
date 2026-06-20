@@ -13,7 +13,7 @@ Examining how the reluctant migration of legacy broadcast figures into podcast a
 | `index.md` | `/` | Home page and navigation hub |
 | `journal-article.md` | `/journal-article/` | "The Reluctant Migrant" — full scholarly article (~7,500 words) |
 | `conference-paper.md` | `/conference-paper/` | "Infrastructure Collapse as Media Event" — NCA paper (~4,500 words) |
-| `substack.md` | `/substack/` | "Brian Williams Is Not the Story" — public essay (~1,600 words) |
+| `substack.md` | `/substack/` | "They Couldn't Beat 'Em, So They Joined 'Em" — public essay (~1,600 words) |
 | `practice-brief.md` | `/practice-brief/` | Practitioner brief — three-three-three structure |
 | `literature-review.md` | `/literature-review/` | Annotated bibliography — theoretical, empirical, primary sources |
 | `podcast-outline.md` | `/podcast-outline/` | Episode outline — ~50-minute conversation |

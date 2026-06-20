@@ -22,7 +22,7 @@ This site collects the academic and public-facing writing on a generative case f
   </div>
   <div class="piece">
     <a href="{{ '/substack/' | relative_url }}">Substack</a>
-    <span class="desc">"Brian Williams Is Not the Story" — the public-facing essay on what the anchor's arrival in the podsphere actually signals.</span>
+    <span class="desc">"They Couldn't Beat 'Em, So They Joined 'Em" — the public-facing essay on what the anchor's arrival in the podsphere actually signals.</span>
   </div>
   <div class="piece">
     <a href="{{ '/practice-brief/' | relative_url }}">Practice Brief</a>

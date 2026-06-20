@@ -1,7 +1,7 @@
 ---
 layout: article
-title: "Brian Williams Is Not the Story"
-subtitle: "The anchor just showed up in the podsphere. What you should actually be watching is the infrastructure that's collapsing behind him."
+title: "They Couldn't Beat 'Em, So They Joined 'Em"
+subtitle: "Brian Williams just showed up in the podsphere. 'Join 'em' sounds like a strategy — but the anchors aren't choosing this; they're following a collapsing infrastructure into whatever formats are left."
 kicker: "Substack"
 meta: "Public essay · June 18, 2026"
 description: "The reluctant arrival of legacy broadcast figures in the podsphere is not an adaptation story — it's a divestiture story, and the distinction matters for anyone who cares about what journalism is for."

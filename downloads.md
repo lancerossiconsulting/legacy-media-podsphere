@@ -15,7 +15,7 @@ Each piece in the package is available for download. Word and PDF copies are gen
   <li><a href="{{ '/downloads/legacy-media-podsphere-journal-article.pdf' | relative_url }}">Journal Article — "The Reluctant Migrant"</a><span class="format">PDF</span></li>
   <li><a href="{{ '/downloads/legacy-media-podsphere-conference-paper.docx' | relative_url }}">Conference Paper — "Infrastructure Collapse as Media Event"</a><span class="format">Word</span></li>
   <li><a href="{{ '/downloads/legacy-media-podsphere-conference-paper.pdf' | relative_url }}">Conference Paper — "Infrastructure Collapse as Media Event"</a><span class="format">PDF</span></li>
-  <li><a href="{{ '/downloads/legacy-media-podsphere-substack.md' | relative_url }}">Substack Essay — "Brian Williams Is Not the Story"</a><span class="format">Markdown</span></li>
+  <li><a href="{{ '/downloads/legacy-media-podsphere-substack.md' | relative_url }}">Substack Essay — "They Couldn't Beat 'Em, So They Joined 'Em"</a><span class="format">Markdown</span></li>
   <li><a href="{{ '/downloads/legacy-media-podsphere-practice-brief.docx' | relative_url }}">Practice Brief</a><span class="format">Word</span></li>
   <li><a href="{{ '/downloads/legacy-media-podsphere-practice-brief.pdf' | relative_url }}">Practice Brief</a><span class="format">PDF</span></li>
   <li><a href="{{ '/downloads/legacy-media-podsphere-slides.pptx' | relative_url }}">Slide Skeleton</a><span class="format">PowerPoint</span></li>
