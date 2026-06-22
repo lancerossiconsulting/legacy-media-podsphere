@@ -34,7 +34,7 @@ Where the framework is less developed is in its account of the material and inst
 
 ### Media ecology and the broadcast habitus
 
-Postman (1985)<a class="cite" href="https://www.penguinrandomhouse.com/books/297206/amusing-ourselves-to-death-by-neil-postman/"><sup><em>2</em></sup></a> provides the complementary frame for understanding why the migration takes the reluctant form it does. Media formats shape not only the content they carry but the cognitive habits and professional identities of those who work within them. The broadcast anchor inhabits a set of production conventions — the teleprompter read, the institutional authority of the network brand, the thirty-second story format — that are constitutive of professional identity, not merely stylistic preferences. Williams is not uncomfortable with podcasting because it is new; he is uncomfortable because the format's affordances — intimacy, conversational informality, long-form temporal structure — are precisely the features that broadcast infrastructure selected against over a forty-year career.
+Postman (1985)<a class="cite" href="https://www.penguinrandomhouse.com/books/297276/amusing-ourselves-to-death-by-neil-postman/"><sup><em>2</em></sup></a> provides the complementary frame for understanding why the migration takes the reluctant form it does. Media formats shape not only the content they carry but the cognitive habits and professional identities of those who work within them. The broadcast anchor inhabits a set of production conventions — the teleprompter read, the institutional authority of the network brand, the thirty-second story format — that are constitutive of professional identity, not merely stylistic preferences. Williams is not uncomfortable with podcasting because it is new; he is uncomfortable because the format's affordances — intimacy, conversational informality, long-form temporal structure — are precisely the features that broadcast infrastructure selected against over a forty-year career.
 
 ### Institutional isomorphism under field-level contraction
 
@@ -80,9 +80,9 @@ Chadwick, A. (2017). [*The Hybrid Media System: Politics and Power* (2nd ed.)](h
 
 DiMaggio, P. J., & Powell, W. W. (1983). [The iron cage revisited: Institutional isomorphism and collective rationality in organizational fields](https://www.jstor.org/stable/2095101). *American Sociological Review, 48*(2), 147–160.
 
-Postman, N. (1985). [*Amusing Ourselves to Death: Public Discourse in the Age of Show Business*](https://www.penguinrandomhouse.com/books/297206/amusing-ourselves-to-death-by-neil-postman/). Viking.
+Postman, N. (1985). [*Amusing Ourselves to Death: Public Discourse in the Age of Show Business*](https://www.penguinrandomhouse.com/books/297276/amusing-ourselves-to-death-by-neil-postman/). Viking.
 
-Sullivan, J. L. (2019). [Podcast movement: Aspirational labour and the formalisation of podcasting as a cultural industry](https://doi.org/10.1177/1461444818804437). *New Media & Society, 21*(9), 1921–1939.
+Sullivan, J. L. (2018). [Podcast movement: Aspirational labour and the formalisation of podcasting as a cultural industry](https://doi.org/10.1007/978-3-319-90056-8_3). In D. Llinares, N. Fox, & R. Berry (Eds.), *Podcasting: New Aural Cultures and Digital Media* (pp. 35–56). Palgrave Macmillan.
 
 </div>
 

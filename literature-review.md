@@ -2,7 +2,7 @@
 layout: article
 title: "Literature Review"
 kicker: "Sources"
-meta: "Annotated bibliography · 24 sources · June 18, 2026"
+meta: "Annotated bibliography · 19 sources · June 18, 2026"
 description: "Every source this project draws on — theoretical, empirical, and primary — with working links and a note on how each was used."
 dropcap: false
 permalink: /literature-review/
@@ -25,7 +25,7 @@ This project sits at the intersection of four literatures: hybrid media systems 
 <div class="lit-entry">
 <h3>Amusing Ourselves to Death: Public Discourse in the Age of Show Business</h3>
 <p class="lit-citation">Postman, N. (1985). Viking.</p>
-<a class="lit-link" href="https://www.penguinrandomhouse.com/books/297206/amusing-ourselves-to-death-by-neil-postman/">penguinrandomhouse.com</a>
+<a class="lit-link" href="https://www.penguinrandomhouse.com/books/297276/amusing-ourselves-to-death-by-neil-postman/">penguinrandomhouse.com</a>
 <p class="relevance"><strong>Foundation for the media-ecology account of the reluctant migrant.</strong> Postman's argument that media formats shape the cognitive habits and professional identities of those who work within them is the theoretical basis for the claim that Williams's reluctance is not personal but structural. The broadcast anchor's habitus — the scripted read, the institutional authority of the network brand, the thirty-second story format — is constituted by the broadcast medium, not merely practiced within it. Postman explains why the migration into the podsphere is not simply a format change but a professional-identity disruption.</p>
 </div>
 
@@ -53,35 +53,35 @@ This project sits at the intersection of four literatures: hybrid media systems 
 <div class="lit-entry">
 <h3>Will the iPod Kill the Radio Star? Profiling Podcasting as Radio</h3>
 <p class="lit-citation">Berry, R. (2006). Convergence, 12(2), 143–162.</p>
-<a class="lit-link" href="https://doi.org/10.1080/13688800600922169">doi.org</a>
+<a class="lit-link" href="https://doi.org/10.1177/1354856506066522">doi.org</a>
 <p class="relevance"><strong>Foundational podcast studies source establishing the medium's distinctive characteristics.</strong> Berry's 2006 piece is the earliest scholarly account of podcasting as a medium with its own affordances, and it anticipates the argument this project makes about format-audience relationship. The intimacy and parasocial intensity Berry identifies are used in the journal article to explain why broadcast figures are structurally ill-suited to the format even when they are technically competent in it.</p>
 </div>
 
 <div class="lit-entry">
 <h3>The 'Second Age' of Podcasting: Reframing Podcasting as a New Digital Mass Medium</h3>
 <p class="lit-citation">Bonini, T. (2015). Quaderns del CAC, 18(41), 21–30.</p>
-<a class="lit-link" href="https://doi.org/10.1080/13688804.2015.1074594">doi.org</a>
+<a class="lit-link" href="https://usiena-air.unisi.it/handle/11365/1005675">doi.org</a>
 <p class="relevance"><strong>Account of podcasting's maturation as a medium.</strong> Bonini's argument that podcasting has moved into a "second age" of professionalization and scale is the empirical basis for the claim that the podsphere, by 2026, is a sufficiently developed media system to absorb legacy figures rather than the reverse. The institutional development of the podcast medium — its economics, its audience scale, its professional norms — is what makes it a plausible destination for the divestiture migration.</p>
 </div>
 
 <div class="lit-entry">
 <h3>Podcast Movement: Aspirational Labour and the Formalisation of Podcasting as a Cultural Industry</h3>
-<p class="lit-citation">Sullivan, J. L. (2019). New Media & Society, 21(9), 1921–1939.</p>
-<a class="lit-link" href="https://doi.org/10.1177/1461444818804437">doi.org</a>
+<p class="lit-citation">Sullivan, J. L. (2018). In D. Llinares, N. Fox, & R. Berry (Eds.), <em>Podcasting: New Aural Cultures and Digital Media</em> (pp. 35–56). Palgrave Macmillan.</p>
+<a class="lit-link" href="https://doi.org/10.1007/978-3-319-90056-8_3">doi.org</a>
 <p class="relevance"><strong>Account of the podcast industry's institutional development.</strong> Sullivan's analysis of the formalizing podcast industry — the emergence of professional norms, monetization structures, and audience relationships — provides the empirical basis for understanding the podsphere as an institutional field that legacy figures are entering, not merely a technology they are adopting. The formalisation Sullivan documents is the institutional template to which legacy figures are conforming under isomorphic pressure.</p>
 </div>
 
 <div class="lit-entry">
-<h3>Will the iPod Kill the Radio Star? Podcasting and the Evolution of Radio</h3>
+<h3>Podcasting: Considering the Evolution of the Medium and Its Association with the Word 'Radio'</h3>
 <p class="lit-citation">Berry, R. (2016). The Radio Journal, 14(1), 7–22.</p>
-<a class="lit-link" href="https://doi.org/10.1080/13688804.2015.1121054">doi.org</a>
+<a class="lit-link" href="https://doi.org/10.1386/rjao.14.1.7_1">doi.org</a>
 <p class="relevance"><strong>Updated account of podcasting's relationship to legacy audio.</strong> Berry's revisit ten years after his foundational piece addresses the question of whether podcasting is replacing radio or co-existing with it — the same structural question this project asks about podcasting and broadcast television. Used to frame the hybrid-coexistence versus divestiture debate in the journal article's theoretical context section.</p>
 </div>
 
 <div class="lit-entry">
 <h3>Podcasting: The Audio Media Revolution</h3>
 <p class="lit-citation">Spinelli, M., & Dann, L. (2019). Bloomsbury Academic.</p>
-<a class="lit-link" href="https://www.bloomsbury.com/us/podcasting-9781501328831/">bloomsbury.com</a>
+<a class="lit-link" href="https://www.bloomsburycollections.com/book/podcasting-the-audio-media-revolution/">bloomsbury.com</a>
 <p class="relevance"><strong>Comprehensive account of podcasting as a medium and industry.</strong> Spinelli and Dann's book is the most thorough available account of podcasting's production culture, audience relationships, and industry economics. Used as background for the production-economics section of the journal article (§3.3) and as a reference for the claim that podcast production costs are structurally different from broadcast production costs.</p>
 </div>
 
@@ -93,14 +93,14 @@ This project sits at the intersection of four literatures: hybrid media systems 
 <div class="lit-entry">
 <h3>Digitizing the News: Innovation in Online Newspapers</h3>
 <p class="lit-citation">Boczkowski, P. J. (2004). MIT Press.</p>
-<a class="lit-link" href="https://mitpress.mit.edu/9780262524773/digitizing-the-news/">mitpress.mit.edu</a>
+<a class="lit-link" href="https://direct.mit.edu/books/monograph/2408/Digitizing-the-NewsInnovation-in-Online-Newspapers">mitpress.mit.edu</a>
 <p class="relevance"><strong>Closest structural analogue to the broadcast-to-podcast migration.</strong> Boczkowski's account of how newspapers navigated the shift to online publication finds that legacy institutions tend to import their existing production routines into new formats rather than adapting to the affordances of those formats — a finding directly consistent with Williams's reluctant-anchor performance on Netflix. Used in §2.3 of the journal article as the key empirical antecedent for the divestiture argument.</p>
 </div>
 
 <div class="lit-entry">
 <h3>Rebuilding the News: Metropolitan Journalism in the Digital Age</h3>
 <p class="lit-citation">Anderson, C. W. (2013). Temple University Press.</p>
-<a class="lit-link" href="https://global.oup.com/academic/product/rebuilding-the-news-9781439910245">global.oup.com</a>
+<a class="lit-link" href="https://tupress.temple.edu/books/rebuilding-the-news">global.oup.com</a>
 <p class="relevance"><strong>Ethnographic account of journalism's professional identity crisis under institutional contraction.</strong> Anderson's study of Philadelphia news organizations documents the specific form that professional identity disruption takes as journalism institutions contract — the loss of shared routines, the fragmentation of professional norms, the erosion of the occupational solidarity that sustained journalistic authority. Used to ground the habitus-disruption argument and to provide the professional-identity vocabulary for the Williams analysis.</p>
 </div>
 
@@ -113,15 +113,15 @@ This project sits at the intersection of four literatures: hybrid media systems 
 
 <div class="lit-entry">
 <h3>Normative Theories of the Media: Journalism in Democratic Societies</h3>
-<p class="lit-citation">Nerone, J., et al. (1995). University of Illinois Press.</p>
-<a class="lit-link" href="https://www.press.uillinois.edu/books/?id=p067413">press.uillinois.edu</a>
-<p class="relevance"><strong>Normative framework for journalism's democratic functions.</strong> Nerone et al.'s account of the normative theories under which journalism has justified its social authority — libertarian, social responsibility, democratic participant, and others — provides the vocabulary for the democratic-function analysis in §4 and §5 of the journal article. The question of whether the podsphere can perform broadcast journalism's democratic functions is organized around the normative frameworks this source establishes.</p>
+<p class="lit-citation">Christians, C. G., Glasser, T. L., McQuail, D., Nordenstreng, K., & White, R. A. (2009). University of Illinois Press.</p>
+<a class="lit-link" href="https://www.press.uillinois.edu/books/?id=p076183">press.uillinois.edu</a>
+<p class="relevance"><strong>Normative framework for journalism's democratic functions.</strong> Christians et al.'s account of the normative roles journalism plays in democratic societies — monitorial, facilitative, radical, and collaborative — provides the vocabulary for the democratic-function analysis in §4 and §5 of the journal article. The question of whether the podsphere can perform broadcast journalism's democratic functions is organized around the normative frameworks this source establishes.</p>
 </div>
 
 <div class="lit-entry">
 <h3>The Elements of Journalism: What Newspeople Should Know and the Public Should Expect</h3>
 <p class="lit-citation">Kovach, B., & Rosenstiel, T. (2021). 4th ed. Crown.</p>
-<a class="lit-link" href="https://www.penguinrandomhouse.com/books/670960/the-elements-of-journalism-fourth-edition-by-bill-kovach-and-tom-rosenstiel/">penguinrandomhouse.com</a>
+<a class="lit-link" href="https://www.penguinrandomhouse.com/books/671513/the-elements-of-journalism-revised-and-updated-4th-edition-by-bill-kovach-and-tom-rosenstiel/">penguinrandomhouse.com</a>
 <p class="relevance"><strong>Standard account of journalism's professional norms and functions.</strong> Kovach and Rosenstiel's elements — truth-seeking, loyalty to citizens, verification, independence, public forum — provide the functional checklist against which the podsphere's journalism capacity is assessed. Used in the practice brief and in the forward-looking section of the journal article to frame the question of which functions survive the infrastructure collapse and which do not.</p>
 </div>
 
