@@ -18,21 +18,21 @@ The migration of legacy broadcast figures into the podsphere is not an adaptatio
 
 ### 1. Stop calling it "pivoting to podcasting."
 
-The language of pivoting implies that your legacy format was a choice you made and audio is a choice you are now making. For most news organizations, neither is true. Broadcast and cable news were not strategic choices; they were the institutional inheritance of a particular media infrastructure. The shift to audio is not a strategic choice either; it is a structural consequence of that infrastructure's contraction. Using pivot language gives you too much credit for intentionality and obscures the structural logic driving the move.
+The language of pivoting implies that your legacy format was a choice you made and the podsphere is a choice you are now making. For most news organizations, neither is true. Broadcast and cable news were not strategic choices; they were the institutional inheritance of a particular media infrastructure. The shift to podcasting and streaming is not a strategic choice either; it is a structural consequence of that infrastructure's contraction. Using pivot language gives you too much credit for intentionality and obscures the structural logic driving the move.
 
 Name it accurately instead: you are managing a divestiture. That language changes what you do next. Divestitures require you to make explicit decisions about what functions you are preserving, what you are releasing, and what you are building in the new context. Pivots just require you to learn a new format. You need to do the harder thing.
 
 ### 2. Identify which of your journalism functions the podsphere format can actually perform.
 
-Not all journalism functions translate equally into audio. Some translate well: long-form narrative journalism, expert-interview formats, accountability journalism that requires sustained attention, audience relationships built on consistency and trust over time. Some translate poorly: breaking news (the audio format is slow; the update cycle is wrong), the common-information-environment function (audio is audience-selected in ways broadcast was not), and the credentialing function (institutional authority does not pack up and move to Spotify with you).
+Not all journalism functions translate equally into the podsphere. Some translate well: long-form narrative journalism, expert-interview formats, accountability journalism that requires sustained attention, audience relationships built on consistency and trust over time. Some translate poorly: breaking news (the format is slow; the update cycle is wrong), the common-information-environment function (the podsphere is audience-selected in ways broadcast was not), and the credentialing function (institutional authority does not pack up and move to Spotify with you).
 
-Make the list for your organization specifically. What are you best at? Which of those things does audio make easier, which does it make harder, and which does it make impossible? The organizations that will do this well are the ones that are honest about the list, not the ones that assume everything migrates.
+Make the list for your organization specifically. What are you best at? Which of those things does the podsphere make easier, which does it make harder, and which does it make impossible? The organizations that will do this well are the ones that are honest about the list, not the ones that assume everything migrates.
 
 ### 3. Build the credentialing infrastructure that the format doesn't provide.
 
 This is the highest-stakes task and the most neglected one. Broadcast journalism's authority was never purely a function of journalistic quality; it was a function of institutional infrastructure — the vetting of sources, the professional accountability structures, the editorial hierarchies. None of that moves to the podcast format automatically.
 
-If you are producing audio journalism in the podsphere, you need to build an explicit credentialing infrastructure: public editorial standards, source verification processes that you describe on air, correction protocols that your audience can find and evaluate. This is not about signaling virtue; it is about performing the function that your format no longer provides by default.
+If you are producing journalism in the podsphere, you need to build an explicit credentialing infrastructure: public editorial standards, source verification processes that you describe on the show, correction protocols that your audience can find and evaluate. This is not about signaling virtue; it is about performing the function that your format no longer provides by default.
 
 ## Three things to be honest about
 
@@ -42,7 +42,7 @@ The demographics of broadcast news consumption and podcast consumption are not i
 
 ### Risk 2: The podsphere rewards parasocial intimacy in ways your institutional culture may resist.
 
-The podcast format's primary engagement mechanism is parasocial intimacy — the listener's sense of a direct, personal relationship with the host. This is a structural feature of the medium, not a stylistic preference. Organizations whose institutional culture is formal, brand-centered, and journalist-anonymous (the voice of the institution, not the journalist) will struggle to build the audience relationships that the format rewards. Brian Williams's discomfort on Netflix is partly personal, but it is also partly this: the format asks for a kind of intimacy that broadcast training specifically selected against.
+The podcast format's primary engagement mechanism is parasocial intimacy — the audience's sense of a direct, personal relationship with the host. This is a structural feature of the medium, not a stylistic preference. Organizations whose institutional culture is formal, brand-centered, and journalist-anonymous (the voice of the institution, not the journalist) will struggle to build the audience relationships that the format rewards. Brian Williams's discomfort on Netflix is partly personal, but it is also partly this: the format asks for a kind of intimacy that broadcast training specifically selected against.
 
 ### Risk 3: The press pool expansion is not a validation of the podsphere's journalism functions.
 
@@ -50,9 +50,9 @@ The White House press pool now includes podcasters and independent journalists. 
 
 ## Three things to integrate immediately
 
-- **Integrate your audio production with your editorial standards documentation.** Every audio piece should have a sourcing log and a correction policy that is publicly accessible. Do not treat podcast production as informal just because the format sounds informal. The accountability infrastructure is the product, not a behind-the-scenes nicety.
+- **Integrate your podcast and video production with your editorial standards documentation.** Every episode should have a sourcing log and a correction policy that is publicly accessible. Do not treat podcast production as informal just because the format feels informal. The accountability infrastructure is the product, not a behind-the-scenes nicety.
 
-- **Integrate your format decisions with your function analysis.** If you have identified a journalism function that audio cannot perform (breaking news, common information environment), make an explicit decision about where that function lives in your operation. Do not assume it migrates automatically, and do not let it disappear silently because the format conversation crowded it out.
+- **Integrate your format decisions with your function analysis.** If you have identified a journalism function that the podsphere cannot perform (breaking news, common information environment), make an explicit decision about where that function lives in your operation. Do not assume it migrates automatically, and do not let it disappear silently because the format conversation crowded it out.
 
 - **Integrate your audience development strategy with your democratic function analysis.** Building a large podcast audience and performing the democratic functions of public-affairs journalism are related but not identical goals. The metrics are different, the audience development strategies are different, and the success criteria are different. Both matter. Know which one you are optimizing for at any given moment, and make sure the one you are not optimizing for is not dying by neglect.
 

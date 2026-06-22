@@ -15,7 +15,7 @@ Williams is the lede here, not the story. He is the most recognizable face on a 
 
 **The move you're watching is not what it looks like**
 
-The coverage of legacy figures arriving in the podsphere has mostly taken one of two frames. The first is the adaptation frame: legacy media is learning new formats, experienced journalists are finding new audiences, venerable brands are extending their reach into digital audio. The second is the nostalgia frame: look what has become of the once-mighty anchor, reduced to podcasting on Netflix while the networks he came from still nominally exist.
+The coverage of legacy figures arriving in the podsphere has mostly taken one of two frames. The first is the adaptation frame: legacy media is learning new formats, experienced journalists are finding new audiences, venerable brands are extending their reach into podcasting and streaming. The second is the nostalgia frame: look what has become of the once-mighty anchor, reduced to podcasting on Netflix while the networks he came from still nominally exist.
 
 Both frames are wrong, or at least incomplete. They treat the arrival as a choice — the institution's choice, the individual's choice — when it is better understood as a consequence. The infrastructure that made broadcast journalism the dominant production mode of American political communication is contracting. Not declining, not pivoting, not evolving — contracting. And Williams, like Chris Wallace before him, and like a dozen others who will follow in the next three years, is not choosing the podsphere so much as following a contracting institution into whatever formats remain viable.
 
@@ -41,13 +41,13 @@ Here's the structural irony: at the exact moment that legacy figures like Willia
 
 **What the podsphere can and can't do**
 
-I want to be careful not to sound like I'm making a simple lament. The podsphere is not nothing. It has demonstrated that it can reach large audiences, sustain complex narratives, generate real public attention, and hold powerful people accountable — sometimes more effectively than legacy journalism did. The best independent audio journalism of the last decade has been genuinely excellent. I'm not arguing that it should be dismissed.
+I want to be careful not to sound like I'm making a simple lament. The podsphere is not nothing. It has demonstrated that it can reach large audiences, sustain complex narratives, generate real public attention, and hold powerful people accountable — sometimes more effectively than legacy journalism did. The best independent journalism in the podsphere over the last decade has been genuinely excellent. I'm not arguing that it should be dismissed.
 
 What I'm arguing is that the podsphere, as currently structured, is not performing some of the functions that broadcast journalism performed — and that the gap matters for anyone who cares about journalism's role in democratic communication.
 
 The most important of those functions is what I'll call the common information environment: the provision, at scale, to a mass audience that includes people with very different backgrounds and prior beliefs, of a shared baseline of fact about events that are happening in the world. Broadcast journalism did this imperfectly, with significant bias, and with structural exclusions that we should be honest about. But it did it, and nothing in the current media ecosystem performs the function at anywhere near the same scale.
 
-The podsphere is audience-selected in a way that broadcast journalism was not. You choose your podcasts; you don't choose what comes over the broadcast signal at 6:30. The algorithm that delivers your audio content is optimized for engagement and retention, not for common information environments. The result is a media ecosystem that is, in aggregate, extraordinary — more diverse, more specialized, more willing to pursue stories that legacy journalism ignored — and, in terms of its capacity to provide a shared baseline of democratic information, significantly weaker.
+The podsphere is audience-selected in a way that broadcast journalism was not. You choose your podcasts; you don't choose what comes over the broadcast signal at 6:30. The algorithm that delivers that content is optimized for engagement and retention, not for common information environments. The result is a media ecosystem that is, in aggregate, extraordinary — more diverse, more specialized, more willing to pursue stories that legacy journalism ignored — and, in terms of its capacity to provide a shared baseline of democratic information, significantly weaker.
 
 **The thing to watch**
 
@@ -55,7 +55,7 @@ The arrival of any one anchor in the podsphere will get old fast, and the covera
 
 The broadcast infrastructure is contracting. The figures it shaped are following it into the podsphere. The functions it performed are degrading — some of them into nothing, some of them into new forms that we don't yet have good language to describe. The press pool is opening to people who were not supposed to be there. Netflix is hosting podcasts. The cable news audience is aging out of existence.
 
-In five years, the question won't be whether legacy journalism can adapt to the podsphere. It will be whether anyone — legacy or independent, broadcast or audio, old or new — is performing the democratic functions that journalism's infrastructure once organized. That is the harder question, and the more important one. It was always the story.
+In five years, the question won't be whether legacy journalism can adapt to the podsphere. It will be whether anyone — legacy or independent, broadcast or digital, old or new — is performing the democratic functions that journalism's infrastructure once organized. That is the harder question, and the more important one. It was always the story.
 
 Williams just walked us to the door.
 

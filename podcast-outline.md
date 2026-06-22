@@ -45,7 +45,7 @@ Walk through the "We're Back" situation:
 
 Wallace is actually a cleaner case to trace the arc:
 - Fox News Sunday → CNN+ launch → CNN+ folds in a month → independent podcast
-- He's now producing audio on his own, without institutional infrastructure, the same way independent journalists started doing fifteen years ago
+- He's now producing his own independent show, without institutional infrastructure, the same way independent journalists started doing fifteen years ago
 - The migration went all the way to the bottom — flagship anchor to solo podcaster
 
 **Key thing to establish:** This is a pattern, not a coincidence.
@@ -69,7 +69,7 @@ This one doesn't get talked about enough in the same conversation:
 
 There are two wrong ways to read the Williams case:
 
-**The adaptation frame:** Legacy media is learning new formats. Journalists with institutional experience are finding new audiences. Venerable brands are extending their reach into digital audio.
+**The adaptation frame:** Legacy media is learning new formats. Journalists with institutional experience are finding new audiences. Venerable brands are extending their reach into podcasting and streaming.
 
 **The nostalgia frame:** Look what has become of the anchor. Reduced to podcasting on Netflix. How the mighty have fallen.
 
@@ -117,7 +117,7 @@ Be explicit and generous here:
 - Accountability journalism that requires sustained audience attention — podcasting can hold complex stories over multiple episodes in ways broadcast never could
 - Building sustained, trust-based audience relationships over time
 
-**Anchor point:** Some of the best journalism of the last decade has been audio. This is not an anti-podcast argument.
+**Anchor point:** Some of the best journalism of the last decade has come out of the podsphere. This is not an anti-podcast argument.
 
 ### What the podsphere does poorly
 
@@ -133,7 +133,7 @@ The podsphere is audience-selected. You are an audience of people who chose this
 
 Broadcast journalism's authority wasn't only about journalistic quality. It was about institutional infrastructure — the organizational vetting of sources and claims, the professional accountability structures, the editorial hierarchies. None of that moves to Spotify when the anchor does. The credentialing apparatus dissolves.
 
-What replaces it is different in kind. Podcast hosts build trust through parasocial intimacy — through the listener's sense of a direct, personal relationship with the host. That's a real and powerful form of trust. But it's personal trust, not institutional trust. And when the credentialing infrastructure dissolves, the distinction matters.
+What replaces it is different in kind. Podcast hosts build trust through parasocial intimacy — through the audience's sense of a direct, personal relationship with the host. That's a real and powerful form of trust. But it's personal trust, not institutional trust. And when the credentialing infrastructure dissolves, the distinction matters.
 
 **3. The agenda-setting function at scale**
 
@@ -159,7 +159,7 @@ Access is not the same as credentialing. The expansion of the pool is a symptom 
 
 Stop calling it a pivot to podcasting. A pivot implies you're choosing a new strategy. What's actually happening is your infrastructure is contracting and you're following it into the available formats. That's a divestiture, and it requires different thinking.
 
-The question is not "how do we adapt our content to audio?" The question is "which of our journalism functions does the audio format actually support?" Make that list. Be honest about it. The organizations that will matter in five years are the ones that did the function analysis, not just the format migration.
+The question is not "how do we adapt our content to the podsphere?" The question is "which of our journalism functions does the format actually support?" Make that list. Be honest about it. The organizations that will matter in five years are the ones that did the function analysis, not just the format migration.
 
 ### If you're an independent journalist already in the podsphere
 
@@ -183,7 +183,7 @@ Williams's joke will age out of the discourse fast. The structural moment undern
 
 The broadcast infrastructure is contracting. The figures it shaped are following it into the podsphere. The functions it performed are degrading — some of them into nothing, some of them into new forms we don't have good language for yet. The press pool is opening. Netflix is hosting podcasts. The cable news audience is aging out of existence.
 
-In five years, the question won't be whether legacy journalism adapted to the podsphere. It'll be whether anyone — legacy or independent, broadcast or audio, old or new — is performing the democratic functions that journalism's infrastructure once organized.
+In five years, the question won't be whether legacy journalism adapted to the podsphere. It'll be whether anyone — legacy or independent, broadcast or digital, old or new — is performing the democratic functions that journalism's infrastructure once organized.
 
 Williams is right to be skeptical. He's just skeptical about the wrong thing. He's skeptical about the format. The thing worth being skeptical about is whether the functions survive the format change.
 

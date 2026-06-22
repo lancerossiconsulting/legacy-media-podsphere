@@ -26,7 +26,7 @@ This project sits at the intersection of four literatures: hybrid media systems 
 <h3>Amusing Ourselves to Death: Public Discourse in the Age of Show Business</h3>
 <p class="lit-citation">Postman, N. (1985). Viking.</p>
 <a class="lit-link" href="https://www.penguinrandomhouse.com/books/297206/amusing-ourselves-to-death-by-neil-postman/">penguinrandomhouse.com</a>
-<p class="relevance"><strong>Foundation for the media-ecology account of the reluctant migrant.</strong> Postman's argument that media formats shape the cognitive habits and professional identities of those who work within them is the theoretical basis for the claim that Williams's reluctance is not personal but structural. The broadcast anchor's habitus — the scripted read, the institutional authority of the network brand, the thirty-second story format — is constituted by the broadcast medium, not merely practiced within it. Postman explains why the migration into audio is not simply a format change but a professional-identity disruption.</p>
+<p class="relevance"><strong>Foundation for the media-ecology account of the reluctant migrant.</strong> Postman's argument that media formats shape the cognitive habits and professional identities of those who work within them is the theoretical basis for the claim that Williams's reluctance is not personal but structural. The broadcast anchor's habitus — the scripted read, the institutional authority of the network brand, the thirty-second story format — is constituted by the broadcast medium, not merely practiced within it. Postman explains why the migration into the podsphere is not simply a format change but a professional-identity disruption.</p>
 </div>
 
 <div class="lit-entry">
