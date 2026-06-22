@@ -10,6 +10,12 @@ description: "Visual exhibits, infographics, and associated media for the Legacy
 This page collects the visual exhibits, diagrams, and associated media assets for the *If You Can't Beat 'Em* project. Assets are produced alongside the written pieces and updated as the argument develops. Print-resolution and downloadable copies of each exhibit are available on the [Downloads page]({{ '/downloads/' | relative_url }}).
 
 <div class="exhibit">
+  <p class="block-label">Overview — The Argument at a Glance</p>
+  <img src="{{ '/assets/exhibits/overview-infographic.svg' | relative_url }}" alt="One-page visual summary: adaptation versus divestiture; three markers of collapse (Williams on Netflix, the White House press-pool new-media seat, and the economic gap); the habitus problem (institutional authority versus parasocial intimacy); and looking toward 2030 (the truth economy and earned trust)." style="width:100%;height:auto;display:block;margin:1.25rem 0;border-radius:8px;" />
+  <p>A single-page synthesis of the project's argument, refined from the working concept. The detailed exhibits follow below.</p>
+</div>
+
+<div class="exhibit">
   <p class="block-label">Exhibit 1 — The Divestiture Arc</p>
   <img src="{{ '/assets/exhibits/exhibit-1-divestiture-arc.svg' | relative_url }}" alt="Timeline, 2020 to 2026, of structural inflection points (Rogan–Spotify 2020, CNN+ collapse 2022, White House new-media seat 2025) and legacy-figure exits (Carlson and Lemon 2023, Wallace 2024, Williams to Netflix 2026), against broadcast's contracting revenue base." style="width:100%;height:auto;display:block;margin:1.25rem 0;border-radius:8px;" />
   <p>A timeline tracing the institutional migration path of three legacy broadcast figures — Brian Williams (NBC → Netflix podcast), Chris Wallace (Fox News → CNN+ → independent podcast), and Tucker Carlson (Fox News, ousted 2023) — against a timeline of broadcast audience decline. The diagram distinguishes between the adaptation path (format added, institution sustained) and the divestiture path (format adopted as institution contracts). Key inflection points marked: Rogan–Spotify deal (2020), CNN+ launch and collapse (2022), White House press pool expansion (2025–2026), Williams–Netflix debut (2026). <em>Rendered above. Print and downloadable copies on the Downloads page.</em></p>

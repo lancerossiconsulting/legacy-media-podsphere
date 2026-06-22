@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 980" role="img" aria-labelledby="ovt ovd" font-family="Georgia, 'Source Serif 4', serif">
+  <title id="ovt">The Reluctant Migrant — overview of the argument</title>
+  <desc id="ovd">A one-page visual summary. Adaptation versus divestiture: the migration is not old media learning new formats but a trailing indicator of infrastructure collapse. Three markers of collapse: Williams on Netflix, the White House press pool's new-media seat, and the economic gap (pay-TV below 50 percent of homes, cable ad revenue down to a 2007 low, broadcast hours costing millions versus thousands for a podcast). The habitus problem: broadcast's institutional authority versus the podsphere's parasocial intimacy. Looking toward 2030: a truth economy in which authority shifts from accreditation to a demonstrated record of reliability.</desc>
+  <rect x="0" y="0" width="1000" height="980" rx="18" fill="#f7f2e8"/>
+
+  <!-- Title -->
+  <text x="500" y="62" text-anchor="middle" font-size="33" font-weight="700" fill="#15323a">The Reluctant Migrant</text>
+  <text x="500" y="94" text-anchor="middle" font-size="17" fill="#4a5a5c">Why legacy media is fleeing to the podsphere</text>
+  <line x1="380" y1="114" x2="620" y2="114" stroke="#cdbf9f" stroke-width="1.5"/>
+
+  <!-- Section 1 -->
+  <text x="60" y="152" font-size="14" font-weight="700" letter-spacing="1.5" fill="#1f6f78">ADAPTATION vs. DIVESTITURE</text>
+  <rect x="60" y="166" width="430" height="118" rx="12" fill="#efe6d3" stroke="#d8c9a3" stroke-width="1.3"/>
+  <text x="82" y="198" font-size="16" font-weight="700" fill="#6e5d3c">Adaptation — the myth</text>
+  <text x="82" y="226" font-size="13" fill="#6e5d3c">Old media simply learning new formats;</text>
+  <text x="82" y="248" font-size="13" fill="#6e5d3c">&#8220;extending its reach&#8221; for new audiences.</text>
+  <rect x="510" y="166" width="430" height="118" rx="12" fill="#e1eff0" stroke="#2a8a94" stroke-width="1.3"/>
+  <text x="532" y="198" font-size="16" font-weight="700" fill="#14323a">Divestiture — the reality</text>
+  <text x="532" y="226" font-size="13" fill="#14323a">A trailing indicator of infrastructure collapse;</text>
+  <text x="532" y="248" font-size="13" fill="#14323a">figures follow contracting institutions out.</text>
+
+  <!-- Section 2 -->
+  <text x="60" y="328" font-size="14" font-weight="700" letter-spacing="1.5" fill="#1f6f78">THREE MARKERS OF COLLAPSE</text>
+  <rect x="60" y="342" width="280" height="158" rx="12" fill="#fbf8f1" stroke="#e0d4b8" stroke-width="1.3"/>
+  <rect x="60" y="342" width="280" height="6" rx="3" fill="#1f6f78"/>
+  <text x="80" y="378" font-size="15" font-weight="700" fill="#1f6f78">Williams &#8594; Netflix</text>
+  <text x="80" y="404" font-size="12.5" fill="#14323a">Netflix extracts a displaced anchor's</text>
+  <text x="80" y="423" font-size="12.5" fill="#14323a">residual brand equity at lower cost &#8212;</text>
+  <text x="80" y="442" font-size="12.5" fill="#14323a">it is not &#8220;adapting&#8221; broadcast.</text>
+  <text x="80" y="478" font-size="11" font-style="italic" fill="#9a7b3e">the trailing indicator</text>
+
+  <rect x="360" y="342" width="280" height="158" rx="12" fill="#fbf8f1" stroke="#e0d4b8" stroke-width="1.3"/>
+  <rect x="360" y="342" width="280" height="6" rx="3" fill="#b9893e"/>
+  <text x="380" y="378" font-size="15" font-weight="700" fill="#9a7b3e">White House Press Pool</text>
+  <text x="380" y="404" font-size="12.5" fill="#14323a">Legacy credentialing loses its</text>
+  <text x="380" y="423" font-size="12.5" fill="#14323a">monopoly: a &#8220;new media&#8221; seat now</text>
+  <text x="380" y="442" font-size="12.5" fill="#14323a">takes the first question (2025).</text>
+  <text x="380" y="478" font-size="11" font-style="italic" fill="#9a7b3e">institutional recognition</text>
+
+  <rect x="660" y="342" width="280" height="158" rx="12" fill="#fbf8f1" stroke="#e0d4b8" stroke-width="1.3"/>
+  <rect x="660" y="342" width="280" height="6" rx="3" fill="#b5563f"/>
+  <text x="680" y="378" font-size="15" font-weight="700" fill="#b5563f">The Economic Gap</text>
+  <text x="680" y="404" font-size="12.5" fill="#14323a">Pay-TV below 50% of US homes;</text>
+  <text x="680" y="423" font-size="12.5" fill="#14323a">cable ad revenue at a 2007 low.</text>
+  <text x="680" y="442" font-size="12.5" fill="#14323a">Broadcast hour: millions. Podcast:</text>
+  <text x="680" y="461" font-size="12.5" fill="#14323a">thousands.</text>
+
+  <!-- Section 3 -->
+  <text x="60" y="548" font-size="14" font-weight="700" letter-spacing="1.5" fill="#1f6f78">THE &#8220;HABITUS&#8221; PROBLEM</text>
+  <rect x="60" y="562" width="430" height="104" rx="12" fill="#fbf8f1" stroke="#e0d4b8" stroke-width="1.3"/>
+  <text x="82" y="594" font-size="15" font-weight="700" fill="#14323a">Institutional authority</text>
+  <text x="82" y="620" font-size="12.5" fill="#14323a">The scripted teleprompter, the desk, the network</text>
+  <text x="82" y="639" font-size="12.5" fill="#14323a">brand &#8212; all built to signal weight and distance.</text>
+  <rect x="510" y="562" width="430" height="104" rx="12" fill="#fbf8f1" stroke="#e0d4b8" stroke-width="1.3"/>
+  <text x="532" y="594" font-size="15" font-weight="700" fill="#14323a">Parasocial intimacy</text>
+  <text x="532" y="620" font-size="12.5" fill="#14323a">The podsphere rewards conversational closeness</text>
+  <text x="532" y="639" font-size="12.5" fill="#14323a">&#8212; precisely what broadcast trained its anchors out of.</text>
+
+  <!-- Section 4 -->
+  <text x="60" y="714" font-size="14" font-weight="700" letter-spacing="1.5" fill="#1f6f78">LOOKING TOWARD 2030</text>
+  <rect x="60" y="728" width="430" height="120" rx="12" fill="#eef3ec" stroke="#7a9a6f" stroke-width="1.3"/>
+  <text x="82" y="760" font-size="15" font-weight="700" fill="#3f5a39">The &#8220;Truth Economy&#8221;</text>
+  <text x="82" y="786" font-size="12.5" fill="#2f4a2b">As AI-driven misinformation saturates the feed,</text>
+  <text x="82" y="805" font-size="12.5" fill="#2f4a2b">authority shifts from accreditation to a</text>
+  <text x="82" y="824" font-size="12.5" fill="#2f4a2b">demonstrated record of getting it right.</text>
+  <rect x="510" y="728" width="430" height="120" rx="12" fill="#eef3ec" stroke="#7a9a6f" stroke-width="1.3"/>
+  <text x="532" y="760" font-size="15" font-weight="700" fill="#3f5a39">Earned trust, not branding</text>
+  <text x="532" y="786" font-size="12.5" fill="#2f4a2b">Tomorrow's institutions are rebuilt on verified</text>
+  <text x="532" y="805" font-size="12.5" fill="#2f4a2b">reliability &#8212; not the most recognizable logo.</text>
+
+  <!-- Footer -->
+  <line x1="60" y1="900" x2="940" y2="900" stroke="#e0d4b8" stroke-width="1.2"/>
+  <text x="500" y="930" text-anchor="middle" font-size="12.5" font-style="italic" fill="#61706f">If You Can't Beat 'Em: Legacy Media and the Podsphere &#183; Lance Rossi &#183; working draft</text>
+</svg>
