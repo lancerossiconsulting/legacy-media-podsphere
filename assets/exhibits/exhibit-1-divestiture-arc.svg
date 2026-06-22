@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="e1t e1d" font-family="Georgia, 'Source Serif 4', serif">
+  <title id="e1t">The Divestiture Arc, 2020–2026</title>
+  <desc id="e1d">A timeline of structural inflection points and legacy-figure departures as broadcast infrastructure contracts. Structural inflections: Rogan's Spotify deal (2020), CNN+'s collapse (2022), and the White House "new media" seat (2025). Figure exits: Carlson and Lemon (2023), Chris Wallace (2024), and Brian Williams to Netflix (2026). Backdrop: US pay-TV fell below 50 percent of households and cable advertising revenue hit a 2007 low by 2025.</desc>
+  <rect x="0" y="0" width="960" height="560" rx="16" fill="#f7f2e8"/>
+  <text x="480" y="48" text-anchor="middle" font-size="28" font-weight="700" fill="#15323a">The Divestiture Arc</text>
+  <text x="480" y="76" text-anchor="middle" font-size="14.5" fill="#61706f">Legacy figures exit as broadcast infrastructure contracts &#183; 2020&#8211;2026</text>
+
+  <!-- axis -->
+  <line x1="80" y1="300" x2="892" y2="300" stroke="#cdbf9f" stroke-width="2"/>
+  <path d="M892,300 l-12,-6 l0,12 z" fill="#cdbf9f"/>
+  <text x="884" y="332" text-anchor="end" font-size="12" font-style="italic" fill="#9a7b3e">time</text>
+
+  <!-- Event 1: 2020 Rogan/Spotify (structural, up) -->
+  <line x1="120" y1="237" x2="120" y2="300" stroke="#c9b58a" stroke-width="2"/>
+  <circle cx="120" cy="237" r="8" fill="#b9893e"/>
+  <text x="120" y="200" text-anchor="middle" font-size="13" fill="#14323a">Rogan &#8594; Spotify</text>
+  <text x="120" y="218" text-anchor="middle" font-size="12" font-weight="700" fill="#9a7b3e">2020</text>
+
+  <!-- Event 2: 2022 CNN+ collapse (structural, down) -->
+  <line x1="300" y1="300" x2="300" y2="363" stroke="#c9b58a" stroke-width="2"/>
+  <circle cx="300" cy="363" r="8" fill="#b9893e"/>
+  <text x="300" y="390" text-anchor="middle" font-size="12" font-weight="700" fill="#9a7b3e">2022</text>
+  <text x="300" y="408" text-anchor="middle" font-size="13" fill="#14323a">CNN+ collapses</text>
+
+  <!-- Event 3: 2023 Carlson & Lemon (exit, up) -->
+  <line x1="470" y1="237" x2="470" y2="300" stroke="#8fc0c5" stroke-width="2"/>
+  <circle cx="470" cy="237" r="8" fill="#1f6f78"/>
+  <text x="470" y="200" text-anchor="middle" font-size="13" fill="#14323a">Carlson &amp; Lemon out</text>
+  <text x="470" y="218" text-anchor="middle" font-size="12" font-weight="700" fill="#1f6f78">2023</text>
+
+  <!-- Event 4: 2024 Wallace (exit, down) -->
+  <line x1="620" y1="300" x2="620" y2="363" stroke="#8fc0c5" stroke-width="2"/>
+  <circle cx="620" cy="363" r="8" fill="#1f6f78"/>
+  <text x="620" y="390" text-anchor="middle" font-size="12" font-weight="700" fill="#1f6f78">2024</text>
+  <text x="620" y="408" text-anchor="middle" font-size="13" fill="#14323a">Wallace exits CNN</text>
+
+  <!-- Event 5: 2025 new media seat (structural, up) -->
+  <line x1="745" y1="237" x2="745" y2="300" stroke="#c9b58a" stroke-width="2"/>
+  <circle cx="745" cy="237" r="8" fill="#b9893e"/>
+  <text x="745" y="200" text-anchor="middle" font-size="13" fill="#14323a">WH &#8220;new media&#8221; seat</text>
+  <text x="745" y="218" text-anchor="middle" font-size="12" font-weight="700" fill="#9a7b3e">2025</text>
+
+  <!-- Event 6: 2026 Williams Netflix (exit, down) -->
+  <line x1="862" y1="300" x2="862" y2="363" stroke="#8fc0c5" stroke-width="2"/>
+  <circle cx="862" cy="363" r="8" fill="#1f6f78"/>
+  <text x="862" y="390" text-anchor="middle" font-size="12" font-weight="700" fill="#1f6f78">2026</text>
+  <text x="862" y="408" text-anchor="middle" font-size="13" fill="#14323a">Williams &#8594; Netflix</text>
+
+  <!-- legend -->
+  <circle cx="300" cy="475" r="7" fill="#1f6f78"/>
+  <text x="314" y="480" font-size="13" fill="#14323a">figure exit</text>
+  <circle cx="430" cy="475" r="7" fill="#b9893e"/>
+  <text x="444" y="480" font-size="13" fill="#14323a">structural inflection</text>
+
+  <!-- backdrop caption -->
+  <text x="480" y="512" text-anchor="middle" font-size="12.5" font-style="italic" fill="#61706f">Backdrop: US pay-TV fell below 50% of households and cable ad revenue hit a 2007 low by 2025.</text>
+  <text x="480" y="534" text-anchor="middle" font-size="12.5" font-style="italic" fill="#61706f">Among others: Couric, Kelly, Weiss, Acosta &#8212; and, at the local level, Nolan.</text>
+</svg>
