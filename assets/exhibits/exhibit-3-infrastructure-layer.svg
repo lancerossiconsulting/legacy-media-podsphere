@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 500" role="img" aria-labelledby="e3t e3d" font-family="Georgia, 'Source Serif 4', serif">
+  <title id="e3t">The Hybrid Media System, with an Infrastructure Layer</title>
+  <desc id="e3d">Two panels. Panel one shows Chadwick's model: broadcast logic and podsphere logic interacting through mutual remediation. Panel two adds an infrastructure layer beneath each logic — broadcast rests on licensing, advertising economics, and professional training, which is contracting and causing the logic to degrade; the podsphere rests on platform economics, creator norms, and algorithmic distribution, an emergent but solid substrate.</desc>
+  <defs>
+    <marker id="ah" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto-start-reverse"><path d="M0,0 L9,4.5 L0,9 z" fill="#1f6f78"/></marker>
+    <marker id="ah2" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#c9756a"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="500" rx="16" fill="#f7f2e8"/>
+  <text x="490" y="42" text-anchor="middle" font-size="22" font-weight="700" fill="#15323a">The Hybrid Media System, with an Infrastructure Layer</text>
+  <text x="490" y="68" text-anchor="middle" font-size="13.5" fill="#61706f">Extending Chadwick: media logics rest on a substrate &#8212; and broadcast's is contracting</text>
+  <line x1="490" y1="92" x2="490" y2="430" stroke="#e3dac6" stroke-width="1.5"/>
+
+  <!-- Panel 1 -->
+  <text x="250" y="118" text-anchor="middle" font-size="15" font-weight="700" fill="#1f6f78">1 &#183; Chadwick's hybrid model</text>
+  <rect x="150" y="160" width="200" height="54" rx="10" fill="#e1eff0" stroke="#2a8a94" stroke-width="1.5"/>
+  <text x="250" y="193" text-anchor="middle" font-size="15" fill="#14323a">Broadcast logic</text>
+  <rect x="150" y="332" width="200" height="54" rx="10" fill="#e1eff0" stroke="#2a8a94" stroke-width="1.5"/>
+  <text x="250" y="365" text-anchor="middle" font-size="15" fill="#14323a">Podsphere logic</text>
+  <line x1="250" y1="220" x2="250" y2="326" stroke="#1f6f78" stroke-width="2" marker-start="url(#ah)" marker-end="url(#ah)"/>
+  <text x="300" y="270" font-size="12.5" font-style="italic" fill="#61706f">interact &amp;</text>
+  <text x="300" y="286" font-size="12.5" font-style="italic" fill="#61706f">remediate</text>
+
+  <!-- Panel 2 -->
+  <text x="730" y="118" text-anchor="middle" font-size="15" font-weight="700" fill="#1f6f78">2 &#183; + infrastructure layer</text>
+  <!-- broadcast logic (degrading) -->
+  <rect x="630" y="150" width="200" height="50" rx="10" fill="#efe7d6" stroke="#b9a66f" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text x="730" y="172" text-anchor="middle" font-size="14" fill="#6e5d3c">Broadcast logic</text>
+  <text x="730" y="189" text-anchor="middle" font-size="11" font-style="italic" fill="#b5563f">degrading</text>
+  <line x1="730" y1="214" x2="730" y2="202" stroke="#c9756a" stroke-width="1.6" stroke-dasharray="4 3" marker-end="url(#ah2)"/>
+  <rect x="610" y="216" width="240" height="48" rx="8" fill="#f0e7d5" stroke="#c9756a" stroke-width="1.4" stroke-dasharray="5 4"/>
+  <text x="730" y="237" text-anchor="middle" font-size="11.5" fill="#8a6f52">licensing &#183; ad economics &#183; training</text>
+  <text x="730" y="254" text-anchor="middle" font-size="11" font-style="italic" fill="#b5563f">&#9660; contracting</text>
+  <!-- podsphere logic -->
+  <rect x="630" y="330" width="200" height="50" rx="10" fill="#e1eff0" stroke="#2a8a94" stroke-width="1.5"/>
+  <text x="730" y="360" text-anchor="middle" font-size="14" fill="#14323a">Podsphere logic</text>
+  <line x1="730" y1="394" x2="730" y2="382" stroke="#2a8a94" stroke-width="1.8" marker-end="url(#ah)"/>
+  <rect x="610" y="396" width="240" height="48" rx="8" fill="#dcebec" stroke="#2a8a94" stroke-width="1.4"/>
+  <text x="730" y="417" text-anchor="middle" font-size="11.5" fill="#14323a">platform economics &#183; creator norms</text>
+  <text x="730" y="433" text-anchor="middle" font-size="11" fill="#14323a">&#183; algorithmic distribution</text>
+
+  <!-- caption -->
+  <text x="490" y="470" text-anchor="middle" font-size="12.5" font-style="italic" fill="#61706f">Logics rest on a material and institutional substrate. When broadcast's substrate contracts, the logic it sustained degrades &#8212;</text>
+  <text x="490" y="488" text-anchor="middle" font-size="12.5" font-style="italic" fill="#61706f">it does not simply relocate to a new format.</text>
+</svg>
