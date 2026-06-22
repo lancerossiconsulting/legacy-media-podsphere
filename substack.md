@@ -9,7 +9,7 @@ date: 2026-06-18
 permalink: /substack/
 ---
 
-I watched Brian Williams open his Netflix podcast last week with a joke about every American having their own show by 2030. He said it with the specific kind of sarcasm that told you he meant it — not as satire of podcast culture, but as a genuine expression of bewilderment at the situation he found himself in. Here he was, the former anchor of *NBC Nightly News*, sitting in a format he didn't build, on a platform that started by mailing DVDs, delivering content that his former employer would have dismissed not five years ago.
+Brian Williams opened his Netflix podcast with a joke — that with everyone predicting every American will have a podcast by 2030, he figured it was time to get in the game. You can read it as easy self-deprecation, and maybe that's all it is. It landed differently for me: here was the former anchor of *NBC Nightly News*, hosting a video interview show on a platform that started by mailing DVDs, delivering content his former employer would have dismissed not a decade ago.
 
 Williams is the lede here, not the story. He is the most recognizable face on a migration much larger than him, and it is the migration — not the man, and not his bemusement at it — that is worth understanding. The arrival of legacy broadcast figures in the podsphere looks like adaptation. It is closer to divestiture. That distinction is the whole argument, and Williams is just the doorway into it.
 
