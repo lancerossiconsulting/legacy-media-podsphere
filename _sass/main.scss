@@ -479,3 +479,16 @@ pre {
   line-height: 1.55;
   color: var(--text-muted);
 }
+
+/* ---- footnotes / in-page citations (journal) ---- */
+.article-body a.fnref { text-decoration: none; }
+.article-body a.fnref sup { font-size: 0.72em; font-weight: 600; color: var(--teal); padding: 0 0.08em; }
+.article-body a.fnref:hover sup { color: var(--coral); }
+.article-body [id^="fnref-"] { scroll-margin-top: 80px; }
+.footnotes { margin: 0.5rem 0 0; font-size: 0.9rem; line-height: 1.55; }
+.footnotes ol { padding-left: 1.5rem; }
+.footnotes li { margin-bottom: 0.65rem; padding: 2px 4px; scroll-margin-top: 80px; }
+.footnotes li:target { background: rgba(42,138,148,0.14); border-radius: 4px; }
+.footnotes a { color: var(--teal); }
+.footnotes a:hover { color: var(--coral); }
+.fn-back { margin-left: 0.35rem; text-decoration: none; }
